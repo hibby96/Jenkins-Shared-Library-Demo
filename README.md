@@ -1,4 +1,6 @@
 # Jenkins-Shared-Library-Demo
+Configure your Jenkins instance to look here for a shared library, basic tutorial here: https://tomd.xyz/jenkins-shared-library/
+
 Configure a Jenkins job with the following pipeline:
 ```
 @Library('Jenkins-Shared-Library-Demo')_
