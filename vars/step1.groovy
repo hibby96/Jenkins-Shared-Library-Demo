@@ -1,4 +1,4 @@
 #!/usr/bin/env groovy
 def call(String name = 'human') {
-    echo "Hello, ${name}.  This is step 1!"
+   println "If you're seeing this, it means that the unapproved method worked just fine."
 }
